@@ -1,0 +1,11 @@
+# Generated output files
+apt_commands.txt
+my_commands.txt
+*_commands.txt
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
